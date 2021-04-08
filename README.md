@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar-23" alt="sanskar-23" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanskarkapoor6" target="blank"><img src="https://img.shields.io/twitter/follow/sanskarkapoor6?logo=twitter&style=for-the-badge" alt="sanskarkapoor6" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
 
 - 🔭 I’m currently working on [Sanscloud:)](https://sanskar-23.github.io/My-Own-Website/)
 
