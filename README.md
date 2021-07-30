@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanskarkapoor6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanskarkapoor6" height="30" width="40" /></a>
+<a href="https://twitter.com/sanskarkapoor6" target="blank" style="hover: red;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanskarkapoor6" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskar23._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanskar23._" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sanskar kapoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sanskar kapoor" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/skapoor_be20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="skapoor_be20" height="30" width="40" /></a>
