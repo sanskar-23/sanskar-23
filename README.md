@@ -1,35 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sanskar Kapoor</h1>
-<h3 align="center">A passionate CSE sophomore who loves exploring new field and ideas</h3>
+<img align="center" src="https://raw.githubusercontent.com/RemcoHalman/RemcoHalman/master/images/header_image.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar-23&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar-23" /> </p>
+<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar-23" alt="sanskar-23" /></a> </p>
+- 🔭️ App Developer currently learning _Vue_ and developing in _Django_.
+- I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
+- 👯 I’m looking to collaborate on Web Dev projects
 
-<p align="left"> <a href="https://twitter.com/sanskarkapoor6" target="blank"><img src="https://img.shields.io/twitter/follow/sanskarkapoor6?logo=twitter&style=for-the-badge" alt="sanskarkapoor6" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<h2 align="center">🛠️ Languages & Frameworks</h2>
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
+![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Sass](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+
+<h2 align="center">⚙️ Tools</h2>
+
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Mac](https://img.shields.io/badge/-apple-333333?style=for-the-badge&logo=apple)
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+
+<h2 align="center"> How to reach me </h2>
+
+[<img src="https://img.shields.io/badge/Linkedin-remcohalman-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/remco-halman-30a13334/)
 
 
-- 🌱 I’m currently learning **Back End Dev**
+___
 
-- 👯 I’m looking to collaborate on **Front End Development**
+### 📈 **Github Stats**
 
-- 📫 How to reach me **kapoorshanskar@gmail.com**
+<!--
+<a href="https://github.com/remcohalman">
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=remcohalman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true">
+</a>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=remcohalman&layout=compact&theme=blue-green" />
+</a>
+-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sanskarkapoor6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanskarkapoor6" height="30" width="40" /></a>
-<a href="https://instagram.com/sanskar23._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanskar23._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanskar kapoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sanskar kapoor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/skapoor_be20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="skapoor_be20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanskar23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sanskar23" height="30" width="40" /></a>
-<a href="https://discord.gg/2637" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="2637" height="30" width="40" /></a>
-</p><br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.javascript.com/try" target="_blank"> <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="35" height="35"/> </a> <a href ="https://www.figma.com/?fuid=" target="_blank"> <img     src="https://raw.githubusercontent.com/yash22arora/yash22arora/0a957d8e598238910aedb9e70d018f210572a5b9/logos/figma.svg" alt="Figma" width="35" height="35"/></p><a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" alt="sass" width ="35" height="35/>
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=RemcoHalman&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-23&show_icons=true&locale=en&layout=compact" alt="sanskar-23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar-23&show_icons=true&locale=en" alt="sanskar-23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar-23&" alt="sanskar-23" /></p>
+<!--
+**RemcoHalman/RemcoHalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
