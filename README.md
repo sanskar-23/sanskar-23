@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sanskar Kapoor</h1>
+<h1 align="center">Hi👋, I'm Sanskar Kapoor</h1>
 <h3 align="center">A passionate CSE sophomore who loves exploring new field and ideas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar-23&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar-23" /> </p>
