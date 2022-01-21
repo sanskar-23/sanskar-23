@@ -12,8 +12,8 @@
  ## About Me: 
  
 
-- 🌱 I’m currently learning DSA in c++ and Database
-- 👯 I’m looking to collaborate in Web Developent
+- 🌱 I’m currently learning DSA in c++ and Python
+- 👯 I’m looking to collaborate in full stack Projects
 - 🤔 I’m looking for help in DSA
 - 📫 How to reach me: kapoorshanskar@gmail.com
 - 😄 Pronouns: He/Him
