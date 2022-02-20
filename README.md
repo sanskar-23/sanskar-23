@@ -1,6 +1,5 @@
 <h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Sanskar Kapoor </h2>
 
-<h3 align="center">A passionate CSE sophomore who loves exploring new field and ideas</h3>
 <br>
 
 
