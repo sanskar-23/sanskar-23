@@ -11,7 +11,7 @@
  ## About Me: 
  
 
-- 🌱 I’m currently learning DSA in c++ and React.js
+- 🌱 I’m currently learning DSA in c++ 
 - 👯 I’m looking to collaborate in full stack Web Dev Projects
 - 🤔 I’m looking for help in DSA
 - 📫 How to reach me: kapoorshanskar@gmail.com
